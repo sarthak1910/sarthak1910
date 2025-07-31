@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarthak Verma</h1>
 <h3 align="center">A passionate Mern Stack developer from India</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native,AWS**
 
 - 📫 How to reach me **sarthak21verma@gmail.com**
 
