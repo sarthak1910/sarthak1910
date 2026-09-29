@@ -1,17 +1,76 @@
-<h1 align="center">Hi 👋, I'm Sarthak Verma</h1>
-<h3 align="center">A passionate Mern Stack developer from India</h3>
+# Sarthak Verma
 
-- 🌱 I’m currently learning **React Native,AWS**
+**Software Engineer · Java & Spring Boot · React & React Native · Salesforce**
 
-- 📫 How to reach me **sarthak21verma@gmail.com**
+I build full-stack and mobile software for enterprise sales teams. At **DealerMatix Technologies** I lead the DealerMatix SFA mobile app, an offline-first React Native and Salesforce Mobile SDK app used by **500+ field users** on Android and iOS. I own it end to end, from the Apex backend and data sync to App Store and Play Store releases.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sarthakverma01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthakverma01" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sarthak21verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarthak21verma" height="30" width="40" /></a>
-</p>
+I'm currently going deeper on backend engineering with **Java and Spring Boot**, and building retrieval-augmented generation (RAG) systems with **Spring AI**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+[LinkedIn](https://www.linkedin.com/in/sarthakverma01/) · [Email](mailto:sarthak21verma@gmail.com) · [LeetCode](https://leetcode.com/u/sarthak21verma/) · [Code360](https://www.naukri.com/code360/profile/sarthakverma)
+<!-- Add " · [Portfolio](https://sarthak1910.github.io)" once GitHub Pages is live -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak1910&show_icons=true&locale=en&layout=compact" alt="sarthak1910" /></p>
+---
+
+## Experience
+
+**Software Engineer (Salesforce & React Native) · DealerMatix Technologies** · Jan 2025 – Present · Chandigarh, India
+
+- Led development of the **DealerMatix SFA** mobile app (React Native + Salesforce Mobile SDK), shipping scheme management, a dynamic-pricing tax calculator and real-time GPS tracking to 500+ active users.
+- Designed an **offline-first architecture** on SmartStore and Mobile Sync, with Redux and Context API for state, so two end-to-end field workflows keep working without a network and sync reliably afterwards.
+- Built the Salesforce backend with **Apex, Triggers, Apex REST and Flows**, and integrated external systems through Named Credentials and **OAuth 2.0**.
+- Improved app performance by **30%** through pagination, lazy loading and SOQL query optimisation.
+- Own build and release on the Play Store and App Store, Salesforce deployments via SFDX, and production support.
+
+---
+
+## Featured Projects
+
+### DevPilot · AI codebase assistant (RAG)
+<!-- Add the repo link here once sarthak1910/devpilot is public -->
+
+Chat with your own GitHub repositories, public and private, and get answers with file-level citations.
+
+- **Auth:** GitHub OAuth2 with Spring Security, HttpOnly session cookies and encrypted access-token storage.
+- **Indexing:** an asynchronous pipeline that filters, chunks and embeds repository files into PostgreSQL + pgvector with OpenAI embeddings, with live progress tracking.
+- **Retrieval & chat:** a Spring AI chat service with repository-scoped vector search, streaming answers over Server-Sent Events.
+
+`Java` `Spring Boot` `Spring Security` `Spring AI` `Spring Data JPA` `PostgreSQL` `pgvector` `Next.js` `TypeScript` `Docker`
+
+### Enterprise CRM Platform · Sales, Procurement & Service
+<!-- If this code is proprietary, keep it as a write-up with no repo link. Never push employer or client code. -->
+
+A full-stack CRM with a React web app, a React Native mobile app and a Java Spring Boot REST backend.
+
+- End-to-end business workflows across the Sales, Procurement and Service modules, built from stakeholder requirements.
+- Reusable UI components shared across clients, with the mobile app integrated against the CRM APIs.
+- Unit-tested releases, managed deployments, and ongoing production support through bug fixes and change requests.
+
+`React` `React Native` `Java` `Spring Boot` `REST APIs` `SQL`
+
+---
+
+## Tech Stack
+
+| Area | Technologies |
+|---|---|
+| **Languages** | Java, JavaScript, TypeScript, SQL, Apex |
+| **Backend** | Spring Boot, Spring Security, Spring Data JPA, Hibernate, RESTful APIs, OAuth 2.0 |
+| **Frontend & Mobile** | React, Next.js, React Native, Redux Toolkit, RTK Query, React Navigation, Tailwind CSS |
+| **Salesforce** | Apex, Triggers, Batch Apex, Apex REST, SOQL/SOSL, LWC, Flows, Mobile SDK, SmartStore, Mobile Sync, SFDX |
+| **AI / LLM** | RAG, Spring AI, OpenAI Embeddings, pgvector, Streaming (SSE) |
+| **Data** | MySQL, PostgreSQL |
+| **Cloud & Tooling** | AWS, Azure, Docker, Git, Maven, Gradle, Bazel, Postman |
+
+**Fundamentals:** data structures and algorithms (in Java), OOP, SOLID, design patterns (Builder, Factory, Singleton)
+
+---
+
+## Education
+
+**B.E. Computer Science and Engineering**, Sant Longowal Institute of Engineering and Technology · 2021 – 2025 · CGPA 8.9 / 10
+
+<!--
+Add later, once they exist:
+## Certifications
+## GitHub stats  (only once there is steady public activity)
+-->
